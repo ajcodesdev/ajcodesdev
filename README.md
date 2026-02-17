@@ -5,7 +5,7 @@
     If you don't have one, you can use a placeholder from Unsplash:
     https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
   -->
-  <img src="profile_banner.png" alt="Creative Developer Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Creative Developer Banner" width="100%" />
 
   <br />
   
