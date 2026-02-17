@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi, I'm Albert</h1>
+  <h1>Hi, I'm Albert John</h1>
   <p>
     <b>Creative Developer</b> | <i>Turning ideas into reality with code and design.</i>
   </p>
