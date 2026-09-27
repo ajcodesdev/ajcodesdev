@@ -1,292 +1,95 @@
-<!-- =========================
-     HERO
-========================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm **Albert John Agbo**
+# Albert John Agbo
 
-### Full Stack Developer · Software Engineer · AI/ML Enthusiast
+**Full Stack Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Designing+scalable+systems;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+working+software" />
+*Building thoughtful software with clean interfaces and scalable systems.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00C896&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1500&color=888888&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+%26+Systems+Builder;Always+learning%2C+always+building." />
+
+<br/>
+
+`JavaScript` · `TypeScript` · `Vue.js` · `Next.js` · `Spring Boot` · `Python`
 
 </div>
 
 ---
 
-<!-- =========================
-     ABOUT
-========================= -->
+## About
 
-## 🧑‍💻 About Me
+I'm a **Full Stack Developer** interested in building software that is simple to use, easy to maintain, and designed to scale.
 
-```typescript
-const developer = {
-    name: "Albert John Agbo",
-    role: "Full Stack Developer",
+My work spans across frontend development, backend systems, databases, microservices, and AI/ML.
 
-    interests: [
-        "Web Development",
-        "Microservices",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "UI/UX"
-    ],
+Currently focused on:
 
-    currentlyLearning: [
-        "System Architecture",
-        "Cloud Technologies",
-        "AI Integration"
-    ],
-
-    philosophy:
-        "Build it simple. Make it scalable. Keep improving."
-};
-```
-
-I enjoy building **modern, scalable, and user-focused applications**.
-
-My work ranges from responsive frontend interfaces to backend APIs, database architecture, microservices, and AI/ML experimentation.
+* Building modern web applications
+* Designing scalable backend systems
+* Exploring AI-powered applications
+* Improving UI/UX and developer experience
 
 ---
 
-## ⚡ What I Do
+## Stack
 
-<table>
-<tr>
-<td width="50%">
+**Frontend**
 
-### 🎨 Frontend Development
+`Vue.js` `Next.js` `JavaScript` `TypeScript` `Tailwind CSS`
 
-* Responsive web interfaces
-* Modern UI/UX
-* Component-based architecture
-* Interactive dashboards
-* Mobile-friendly layouts
+**Backend**
 
-</td>
+`Spring Boot` `Spring Cloud` `FastAPI` `Node.js` `Express`
 
-<td width="50%">
+**Database**
 
-### ⚙️ Backend Development
+`Supabase` `PostgreSQL` `MySQL`
 
-* RESTful APIs
-* Microservices
-* Database design
-* Authentication systems
-* Scalable architectures
+**Tools**
 
-</td>
-</tr>
+`Git` `GitHub` `Docker` `REST API`
 
-<tr>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-
-* Image classification
-* Object detection
-* Computer vision
-* AI-powered applications
-
-</td>
-
-<td width="50%">
-
-### 🧩 System Development
-
-* System architecture
-* Data migration
-* Database integration
-* Cloud-connected applications
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,nextjs" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express" />
-</p>
-
-### Database & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🏥 UHC
-
-Healthcare-oriented system focused on managing patient information, system integration, and data migration.
-
-**Tech**
-
-`Next.js` `Supabase` `Express` `MySQL`
-
-</td>
-
-<td width="50%">
-
-### 🔄 Data Migrator
-
-A data migration system designed to transfer and synchronize patient information between legacy systems and modern databases.
-
-**Tech**
-
-`Next.js` `Supabase` `MySQL` `XML`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 AI / Computer Vision
-
-Machine-learning projects involving image classification and object detection.
-
-**Tech**
+**AI / ML**
 
 `Python` `TensorFlow` `OpenCV`
 
-</td>
+---
 
-<td width="50%">
+## Selected Work
 
-### 🌐 Full Stack Applications
+### UHC
 
-Modern applications combining responsive interfaces, REST APIs, databases, and scalable backend architectures.
+A healthcare-oriented platform focused on patient information, system integration, and data migration.
 
-**Tech**
+`Next.js` · `Supabase` · `Express` · `MySQL`
 
-`Vue.js` `Spring Boot` `Docker`
+<br/>
 
-</td>
+### Data Migration Platform
 
-</tr>
-</table>
+A system designed to migrate and synchronize patient information between legacy systems and modern databases.
+
+`Next.js` · `Supabase` · `XML` · `MySQL`
+
+<br/>
+
+### AI & Computer Vision
+
+Experiments and applications involving image classification, object detection, and computer vision.
+
+`Python` · `TensorFlow` · `OpenCV`
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=00C896&icon_color=00C896&text_color=888888" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&text_color=777777&icon_color=555555&ring_color=888888&hide_title=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=00C896&text_color=888888" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff00&color=00C896&line=00C896&point=00C896&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-> **"Good software isn't just written.
-> It's designed, tested, improved, and maintained."**
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ███████╗ █████╗ ██████╗ ███████╗██████╗          │
-│   ██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗         │
-│   █████╗  ███████║██████╔╝█████╗  ██████╔╝         │
-│   ██╔══╝  ██╔══██║██╔══██╗██╔══╝  ██╔══██╗         │
-│   ██║     ██║  ██║██║  ██║███████╗██║  ██║         │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝         │
-│                                                     │
-│   Building • Learning • Experimenting • Improving   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-### 🔭 Areas I'm Exploring
-
-* ☁️ Cloud & Distributed Systems
-* 🤖 AI-powered applications
-* 🧠 Machine Learning
-* 🏗️ Software Architecture
-* 🔐 Secure Authentication
-* 📊 Data Engineering
-* 🎨 Better UI/UX
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=333333&text_color=777777&hide_title=true" />
 
 </div>
 
@@ -294,8 +97,45 @@ Modern applications combining responsive interfaces, REST APIs, databases, and s
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=777777&line=555555&point=333333&area=true&hide_border=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C896&height=100&section=footer"/>
+</div>
+
+---
+
+## Now
+
+```text
+learning      →  system architecture
+building      →  full-stack applications
+exploring     →  artificial intelligence
+improving     →  UI / UX
+```
+
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+GitHub
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+LinkedIn
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+Email
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&section=footer"/>
+
+<sub>Designed with simplicity in mind.</sub>
 
 </div>
