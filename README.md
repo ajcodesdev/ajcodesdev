@@ -11,7 +11,7 @@
 
 <br/>
 
-# **Albert John Agbo**
+# **ALBERT JOHN A. AGBO**
 
 ### `FULL STACK DEVELOPER`
 
