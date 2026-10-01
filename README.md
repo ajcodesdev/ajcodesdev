@@ -17,8 +17,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1800&color=555555&center=true&vCenter=true&width=550&lines=Building+clean+digital+experiences.;Designing+scalable+systems.;Always+learning.+Always+building." />
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=111111&label=PROFILE+VIEWS" />
