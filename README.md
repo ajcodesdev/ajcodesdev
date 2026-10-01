@@ -187,20 +187,6 @@ Modern applications combining responsive interfaces, APIs, databases, and scalab
 
 <div align="center">
 
-### **GITHUB ACTIVITY**
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff00&color=444444&line=111111&point=111111&area=true&hide_border=true" />
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
 ### **CURRENTLY**
 
 <br/>
@@ -270,28 +256,6 @@ UI / UX
 <br/>
 
 <div align="center">
-
-### **LET'S CONNECT**
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
 
 <sub>Building quietly. Learning constantly.</sub>
 
